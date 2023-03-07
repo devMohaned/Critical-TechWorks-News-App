@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Critical TechWorks News App</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="choose_a_source">Choose a Source</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="available_sources">Available Sources</string>
+    <string name="app_icon">App Icon</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="headline_details">Headline Detail</string>
+    <string name="back_button">Back Button</string>
+</resources>
