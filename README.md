@@ -45,6 +45,7 @@ Tech Used:
 
 - Others:
   - Biometrics API (Fingerprint)
+  - Product Flavors
 
 
 
